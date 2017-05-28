@@ -1,2 +1,3 @@
 
-print 'printer' for i in range(0,10)
+
+print ['printer' for i in range(0,10)]
