@@ -1,2 +1,7 @@
+# -*- coding:utf-8 -*-
 
-print 'printer' for i in range(0,10)
+def run(**args):
+	print "[*] In ptinter modules."
+	for i in range(0,10):
+		print 'printer'
+	return str("")
